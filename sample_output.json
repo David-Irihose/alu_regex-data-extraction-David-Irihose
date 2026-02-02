@@ -4,15 +4,19 @@
   ],
   "urls": [
     "https://www.techbridge.com",
-    "https://portal.techbridge.org/page"
+    "https://portal.techbridge.org/page."
   ],
-  "phones": [],
+  "phones": [
+    "+250791123344",
+    "+250739987766",
+    "+250784458899"
+  ],
   "creditCards": [
     "**** **** **19 7450",
     "****-****-**12-0451"
   ],
   "times": [
-    "12:30",
+    "12:30 AM",
     "4:45 PM"
   ]
 }
